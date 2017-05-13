@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  background-color: #EEEEEE;
+}
+
+nav ul {
+  float: right;
+  padding: 15px;
+  margin-bottom: 10px;
+  margin-top: 45px;
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+nav ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color:#000;
+  padding: 10px;
+}
+
+nav ul li a:hover {
+  background-color: #D47387;
+  color: #000;
+  text-decoration: none;
+}
+
+.logo {
+  margin-left: 15px;
+
+}
+.logo p {
+  color: black;
+  font-size: 35px;
+  padding:15px;
+  float: left;
+  font-family: 'Cookie', cursive;
+}
+
+.logo img {
+  float: left;
+  width: 25px;
+  margin: 55px 0;
+}
+
+.line-break {
+  width: 98%;
+  color: black;
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+
+h2 {
+	font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+	text-align: center;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+section p {
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+section img {
+  width: 1300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px 20px;
+}
+
+.box1 {
+  margin: 45px 15px;
+  width: 45%;
+  float: left;
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  color: #D47387;
+  font-family: 'Cookie', cursive;
+  font-size: 180%;
+  text-align: center;
+}
+
+box1, box2, .p {
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  text-align: justify;
+}
+
+.box2 {
+  float: right;
+  margin: 45px 15px;
+  width: 45%;
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  text-align: justify;
+}
+
+.gallery ul {
+  text-align: center;
+}
+
+.gallery ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.gallery img {
+  width: 200px;
+  height: 160px;
+  padding: 0 5px;
+  margin-bottom: 20px;
+  border-radius: 25px 25px;
+  border-bottom: 65px solid white;
+
+}
+
+.thanks p {
+    font-family: 'Cookie', cursive;
+    font-size: 35px;
+    text-align: center;
+    color: #D47387;
+}
+
+footer {
+  background-color: #2D2D2D;
+  height: 380px;
+  width: initial;
+  position: relative;
+}
+
+h3 {
+  float:left;
+  font-family: 'Cookie', cursive;
+  font-size: 35px;
+  color: #D47387;
+  margin: 65px 30px;
+}
+
+.form {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+    float: left;
+    margin-top: 120px;
+    margin-left: -110px;
+}
+
+.form input {
+  margin-bottom: 5px;
+  width: 90%;
+}
+
+.form textarea {
+	display: block;
+	font-size: 14px;
+	padding: 10px;
+  margin-top: 5px;
+  width: 86%;
+}
+
+.form button {
+  font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+	background-color: transparent;
+	color: #fff;
+	padding: 10px 25px;
+  border: none;
+  margin: 0;
+}
+
+/*Social Media*/
+
+#socialMedia {
+	float: right;
+	margin: 170px 40px;
+}
+
+#socialMedia a {
+	border-radius: 20px;
+	background-color:  #D47387;
+	color: #2D2D2D;
+	margin: 10px;
+	padding: 7px 9px;
+}
