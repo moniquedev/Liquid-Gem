@@ -156,7 +156,7 @@ h3 {
 
 .form input {
   margin-bottom: 5px;
-  width: 90%;
+  width: 350px;
 }
 
 .form textarea {
@@ -164,7 +164,7 @@ h3 {
 	font-size: 14px;
 	padding: 10px;
   margin-top: 5px;
-  width: 86%;
+  width: 93%;
 }
 
 .form button {
